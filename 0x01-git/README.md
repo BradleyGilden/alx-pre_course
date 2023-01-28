@@ -1,1 +1,1 @@
-My second readme file
+This is the project root
